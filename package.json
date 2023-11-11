@@ -9,10 +9,12 @@
   },
   "author": "Maryam Aljanabi",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "admin-bro": "^4.0.1",
     "admin-bro-expressjs": "^2.1.1",
-    "admin-bro-mongoose": "^0.2.2",
+    "admin-bro-mongoose": "^0.2.2"
+  },
+  "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^3.2.0",
